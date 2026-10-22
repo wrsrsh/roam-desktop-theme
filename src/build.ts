@@ -1,4 +1,4 @@
-import type { OnloadArgs } from "roamjs-components/types";
+import type { OnloadArgs } from "./extension-api";
 
 let settings: { [key: string]: any } = {
   "css-theme": "Quattro",

@@ -11,15 +11,11 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@types/react-color": "^3.0.13",
-    "react-color": "^2.19.3",
-    "roamjs-scripts": "^0.27.1",
     "ts-loader": "^9.6.2",
     "typescript": "^5.0.0",
     "webpack": "^5.111.1",
     "webpack-cli": "^7.2.3"
   },
-  "dependencies": {
-    "roamjs-components": "^0.90.0"
-  }
+  "dependencies": {},
+  "packageManager": "npm@11.19.1"
 }
